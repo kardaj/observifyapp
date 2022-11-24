@@ -24,7 +24,7 @@ your_link:
 your_city: Bordeaux
 email_address:
 facebook_username:
-instagram_username: kardaj
+instagram_username:
 twitter_username:
 github_username: kardaj
 youtube_username:
@@ -37,23 +37,23 @@ features:
 
   - title: Set and Exceed Your Goals
     description: Set periodic goals and get instant view of your progress.
-    fontawesome_icon_name: magic
+    fontawesome_icon_name: bullseye
 
   - title: Create Insightful Metrics
     description: Create metrics and attach them to your habits.
-    fontawesome_icon_name: play-circle
+    fontawesome_icon_name: chart-simple
 
   - title: Add Contextual Tags
     description: Create tags and attach them to your habits.
-    fontawesome_icon_name: sync
+    fontawesome_icon_name: tag
 
-  - title: Quick Capture
-    description: Capture rich context including Habit, Metric values and Tag values with a single tap.
-    fontawesome_icon_name: adjust
+  - title: Quick Event Capture
+    description: Capture events with a rich context including Habit, Metric values and Tag values with a single tap.
+    fontawesome_icon_name: magic
 
   - title: Observe Your Progress
     description: Explore charts based on habits and metrics to get useful insights.
-    fontawesome_icon_name: star
+    fontawesome_icon_name: rocket-launch
 
   - title: # New Feature Title
     description: # New Feature Description
