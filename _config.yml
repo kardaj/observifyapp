@@ -53,7 +53,7 @@ features:
 
   - title: Observe Your Progress
     description: Explore charts based on habits and metrics to get useful insights.
-    fontawesome_icon_name: rocket-launch
+    fontawesome_icon_name: fa-regular fa-rocket-launch
 
   - title: # New Feature Title
     description: # New Feature Description
