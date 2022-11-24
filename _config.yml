@@ -41,7 +41,7 @@ features:
 
   - title: Create Insightful Metrics
     description: Create metrics and attach them to your habits.
-    fontawesome_icon_name: chart-simple
+    fontawesome_icon_name: "chart-simple"
 
   - title: Add Contextual Tags
     description: Create tags and attach them to your habits.
