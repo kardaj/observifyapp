@@ -32,12 +32,12 @@ youtube_username:
 # Feature List                            Edit, add or remove features to be presented.
 features:
   - title: Create Powerful Habits
-    description: Create, quantify and track your habits
-    fontawesome_icon_name: magic
+    description: Create, organize and track your habits.
+    fontawesome_icon_name: sync
 
   - title: Set and Exceed Your Goals
-    description: Set and exceed goals for your habits.
-    fontawesome_icon_name: mobile
+    description: Set periodic goals and get instant view of your progress.
+    fontawesome_icon_name: magic
 
   - title: Create Insightful Metrics
     description: Create metrics and attach them to your habits.
@@ -48,11 +48,11 @@ features:
     fontawesome_icon_name: sync
 
   - title: Quick Capture
-    description: Quickly create personalizable occurrences of your habits with a single tap.
+    description: Capture rich context including Habit, Metric values and Tag values with a single tap.
     fontawesome_icon_name: adjust
 
   - title: Observe Your Progress
-    description: Explore charts of your habits and metrics to get useful insights.
+    description: Explore charts based on habits and metrics to get useful insights.
     fontawesome_icon_name: star
 
   - title: # New Feature Title
